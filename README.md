@@ -10,7 +10,4 @@ Responsive Design: "Chat Connect" is designed to be responsive, ensuring a consi
 
 Technologies Used:
 
-Front-end: HTML, CSS, JavaScript
-Back-end: Node.js, Express.js
-Real-time Communication: Socket.io
-Styling: Bootstrap
+Front-end: HTML, CSS, JavaScript || Back-end: Node.js, Express.js || Real-time Communication: Socket.io || Styling: Bootstrap
